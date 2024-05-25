@@ -11,12 +11,6 @@ Hello! My name is Irwan, and I am an experienced Tester with a demonstrated hist
 - 🚀 Performance Testing
 - 🔧 DevOps and CI/CD
 
-### 🌱 I’m currently learning ...
-- 📦 Advanced Kubernetes and Docker orchestration
-- ⚙️ Enhanced performance testing methodologies
-- 🌐 Latest trends in DevOps and CI/CD pipelines
-- 🛠️ New testing automation frameworks
-
 ### 💞️ I’m looking to collaborate on ...
 - 🤝 Open-source testing tools and frameworks
 - 🧩 Projects requiring expertise in manual and automated testing
@@ -35,6 +29,10 @@ Hello! My name is Irwan, and I am an experienced Tester with a demonstrated hist
 - **📊 Monitoring Tools:** Experience with [Datadog](https://www.datadoghq.com/), [Papertrail](https://www.papertrail.com/), [Sentry](https://sentry.io/) for testing purposes
 - **🔧 CI/CD Tools:** Experience with [Bitbucket](https://bitbucket.org/), [GitHub](https://github.com/), [Jenkins](https://www.jenkins.io/)
 - **📅 Methodologies:** Experience with Scrum and Kanban
+
+### 🌱 I’m currently learning ...
+- 📦 Advanced Kubernetes and Docker orchestration
+- ⚙️ Enhanced Automaton Test with AI
 
 ### 📫 How to reach me ...
 - 📧 Email: [irwansyarifudin16@gmail.com](mailto:irwansyarifudin16@gmail.com)
