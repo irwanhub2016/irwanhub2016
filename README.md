@@ -24,7 +24,7 @@ Hello! My name is Irwan, and I am an experienced Tester with a demonstrated hist
 - **⚙️ Performance Testing:** Experience with [JMeter](https://jmeter.apache.org/), [K6](https://k6.io/), [Wrk](https://github.com/wg/wrk)
 - **🤖 Automation Tools:** [Selenium](https://www.selenium.dev/), [Robot Framework](https://robotframework.org/), [Appium](http://appium.io/), [Cypress](https://www.cypress.io/), [Playwright](https://playwright.dev/)
 - **🔀 Version Control:** Experience with [Git](https://git-scm.com/)
-- **🐧 Operating Systems:** Experience with Linux command line
+- **🐧 Operating Systems:** Linux, Windows, OS X
 - **🐋 Containerization:** Experience with [Docker](https://www.docker.com/), [Kubernetes](https://kubernetes.io/)
 - **📊 Monitoring Tools:** Experience with [Datadog](https://www.datadoghq.com/), [Papertrail](https://www.papertrail.com/), [Sentry](https://sentry.io/) for testing purposes
 - **🔧 CI/CD Tools:** Experience with [Bitbucket](https://bitbucket.org/), [GitHub](https://github.com/), [Jenkins](https://www.jenkins.io/)
