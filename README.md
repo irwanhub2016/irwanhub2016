@@ -1,7 +1,7 @@
 ## 👋 Hi, I’m Irwan Syarifuddin
 
 ## Introduction
-Hello! My name is Irwan, and I am an experienced Tester with a demonstrated history of working in startups industry. I possess a strong skill set in both manual and automated testing, and I am highly proficient in various programming languages and tools. My keen attention to detail and growth-oriented mindset allow me to excel in my work and continuously improve my skills.
+Hello! My name is Irwan, and I am an experienced QA Engineer with a demonstrated history of working in startups industry. With 5+ years of experience in manual, automation and performance testing, i have track record in optimizing test strategies, implementing CI/CD and automation infrastructure, and enhancing system reliability. I possess a strong skill set as "Full Stack QA" - either manual or automation. I am highly proficient in various programming languages and tools. My keen attention to detail and growth-oriented mindset allow me to excel in my work and continuously improve my skills.
 
 ### 👀 I’m interested in ...
 - 🧪 Software Testing (Manual and Automated)
