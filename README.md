@@ -32,7 +32,7 @@ Hello! My name is Irwan, and I am an experienced Tester with a demonstrated hist
 
 ### 🌱 I’m currently learning ...
 - 📦 Advanced Kubernetes and Docker orchestration
-- ⚙️ Enhanced Automaton Test with AI
+- ⚙️ Enhanced Automaton Test with AI (MCP Server, Visual Regression Testing)
 
 ### 📫 How to reach me ...
 - 📧 Email: [irwansyarifudin16@gmail.com](mailto:irwansyarifudin16@gmail.com)
